@@ -23,12 +23,12 @@ How to get this running
 
 6. drag this "myExcelEditor" folder onto your Desktop and put all the raw .xls files you want to manipulate into it.
 
-8. in the command prompt navigate to the folder by typing -> cd Desktop\momsFormater
+8. in the command prompt navigate to the folder by typing -> cd Desktop\myFormater
 	
 *SIDE NOTE - in cmd type -> dir
 	to list all the files in the folder and copy paste them to 		a note pad for quick access forcopy pasting into the 	program later on.
 
-9. in command prompt type -> momsExcelEditor.py 
+9. in command prompt type -> myExcelEditor.py 
 	Then follow the instructions given by the program in the command prompt
 
 
