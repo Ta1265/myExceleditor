@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import List from './List';
 import FileUploader from './FileUploader';
 import UploadFilesService from '../uploadService'
-import fileDownload from 'js-file-download'
 import axios from 'axios'
 
 
